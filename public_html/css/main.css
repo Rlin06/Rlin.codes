@@ -4,22 +4,11 @@
 **************************/
 
 body {
-  /*background-image: url(../images/background.jpg);*/
+  background-image: url(../images/background.jpg);
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
   line-height: 26px;
   color: #fff;
-}
-
-@media (max-width: 1921px) {
-  body {
-    background-image: image-url("../images/background.jpg");
-  }
-}
-@media (min-width: 769px) {
-  body {
-    background-image: image-url("http://placekitten.com/g/800/1048");
-  }
 }
 
 h1,h2,h3,h4,h5,h6 {
