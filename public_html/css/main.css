@@ -235,6 +235,15 @@ a:hover {
   margin-bottom: 50px;
 }
 
+.contact-header {
+  font-size: 64px;
+  line-height: 64px;
+  border: 0;
+  padding: 0;
+  margin-top: 0;
+  font-weight: 700;
+}
+
 .entry-title {
   font-size: 24px;
   line-height: 30px;
