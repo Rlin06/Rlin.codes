@@ -1,9 +1,10 @@
 @charset "utf-8";
-html { overflow-y: hidden; }
+/*html { overflow-y: hidden; }*/
 /* CSS Document */
 
 /*Typed.js CSS*/
 .typed-cursor{
+    color:#ffffff;
   	font-size:45px;
     opacity: 1;
     -webkit-animation: blink 0.7s infinite;
@@ -73,7 +74,7 @@ a, a:hover, a:active{ outline:0px !important}
 /* Primary Styles
 ---------------------------------*/
 body {
-	background:#fff;
+  background:url(../img/pw_maze_black.png);
 	font-family: 'Open Sans', sans-serif;
 	font-size:14px;
 	font-weight:normal;
@@ -81,13 +82,6 @@ body {
 	margin:0;
 }
 
-/*Colors:
-Gray: #545454
-Green: #7CC576
-Yellow: #FFEB3B
-Orange: #FF5722
-Red: #D32F2F
-*/
 h2{
 	font-size:34px;
 	font-family: 'Montserrat', sans-serif;
@@ -121,7 +115,6 @@ p{
 
 .header{
 	text-align:center;
-	background:url(../img/pw_maze_black.png) left top repeat;
   height:100vh;
 }
 .header2{
@@ -143,7 +136,7 @@ p{
 	font-size:66px;
 	font-weight:400;
 	letter-spacing: -1px;
-	margin:0 0 22px 0 ;
+	margin:0 0 0 0;
 	color:#ffffff;
 }
 
@@ -160,7 +153,6 @@ p{
 	font-size:40px;
 	color: #ffffff;
 	font-weight: 400;
-	margin:0 5px 0 0;
 	padding:0 0 0 15px;
 }
 .we-create li:first-child{
