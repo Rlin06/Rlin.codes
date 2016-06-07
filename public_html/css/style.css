@@ -5,7 +5,7 @@
 /*Typed.js CSS*/
 .typed-cursor{
     color:#ffffff;
-  	font-size:45px;
+  	font-size:65px;
     opacity: 1;
     -webkit-animation: blink 0.7s infinite;
     -moz-animation: blink 0.7s infinite;
@@ -99,7 +99,7 @@ h3{
 	font-weight:400;
 }
 h6{
-	font-size:16px;
+	font-size:24px;
 	color:#666666;
 	font-family: 'Montserrat', sans-serif;
 	font-weight:400;
@@ -128,15 +128,15 @@ p{
    height:100px;   /* Height of the footer */
 }
 .logo{
-	width:130px;
+	width:200px;
 	margin:0 auto 35px;
 }
 .header h1{
 	font-family: 'Montserrat',sans-serif;
-	font-size:66px;
+	font-size:100px;
 	font-weight:400;
 	letter-spacing: -1px;
-	margin:0 0 0 0;
+	margin:0 0 0 0 ;
 	color:#ffffff;
 }
 
@@ -150,7 +150,7 @@ p{
 .we-create li{
 	display:inline-block;
 	font-family: 'Montserrat',sans-serif;
-	font-size:40px;
+	font-size:60px;
 	color: #ffffff;
 	font-weight: 400;
 	padding:0 0 0 15px;
@@ -169,10 +169,10 @@ color: #ffffff;
 
 
 .link{
-	padding:15px 35px;
+	padding:22px 53px;
 	background:#666;
 	color:#fff !important;
-	font-size:16px;
+	font-size:24px;
 	font-weight:400;
 	font-family: 'Montserrat', sans-serif;
 	display:inline-block;
